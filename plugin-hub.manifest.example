@@ -1,0 +1,7 @@
+# Kopieer deze inhoud naar een NIEUW bestand in je fork van runelite/plugin-hub:
+#   pad: plugins/vengeance-live   (geen .ext)
+#
+# Vervang repository-URL en commit-hash na je eerste push naar GitHub.
+
+repository=https://github.com/JOUW-GITHUB-USERNAME/JOUW-REPO-NAAM.git
+commit=0000000000000000000000000000000000000000
